@@ -6,7 +6,7 @@ This project focuses on exploring different global economic indicators using his
 
 <Outline>
 
-1. KOSPI & Currency Rate (USD-KRW)
+1. KOSPI & Currency Exchange Rate (USD-KRW)
 
 2. KOSPI & NASDAQ/S&P500
 
