@@ -11,3 +11,5 @@ This project focuses on exploring different global economic indicators using his
 2. KOSPI & NASDAQ/S&P500
 
 3. KOPSI & U.S Treasury Bond (Short-/Mid-/Long-term)
+
+Author: Jason (Kwang Hun) Lee
